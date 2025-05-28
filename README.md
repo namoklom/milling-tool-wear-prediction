@@ -4,7 +4,7 @@
 
 | Name            | Role              | LinkedIn                                      |
 |-----------------|-------------------|-----------------------------------------------|
-| Jason Emmanuel  | Data Scientist | [linkedin.com/in/jasoneml](https://www.linkedin.com/in/jasoneml/) |
+| Jason Emmanuel  | Data Scientisst | [linkedin.com/in/jasoneml](https://www.linkedin.com/in/jasoneml/) |
 
 ---
 
